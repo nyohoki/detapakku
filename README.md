@@ -1,0 +1,2 @@
+# detapakku
+Minecraft Datapacks
