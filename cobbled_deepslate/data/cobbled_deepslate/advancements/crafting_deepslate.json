@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"parent": "minecraft:adventure/root",
+	"display": {
+		"title": "Crafting Cobbled Deepslate",
+		"icon": {
+			"item": "minecraft:cobbled_deepslate"
+		},
+		"description": ["",
+			{
+				"text": "Craft cobbled deepsalt with cobblestone and basalt!",
+				"color": "dark_gray"
+			}
+		],
+		"frome": "task",
+		"show_toast": false,
+		"announce_to_chat": false
+	}
+}

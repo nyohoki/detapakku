@@ -1,0 +1,22 @@
+{
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"parent": "minecraft:adventure/root",
+	"display": {
+		"title": "Diamond Salvage",
+		"icon": {
+			"item": "minecraft:diamond"
+			},
+		"description": [
+			"", {
+				"text": "Use a furnace to salvage diamonds from diamond equipment!\n",
+				"color": "aqua"
+			}
+		],
+		"show_toast": false,
+		"announce_to_chat": false
+	}
+}

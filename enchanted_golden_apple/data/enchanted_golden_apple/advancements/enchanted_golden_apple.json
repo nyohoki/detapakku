@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"parent": "minecraft:adventure/root",
+	"display": {
+		"title": "Enchanted Golden Apple",
+		"icon": {
+			"item": "minecraft:golden_apple"
+		},
+		"description": ["",
+			{
+				"text": "Craft enchanted golden apples!",
+				"color": "gold"
+			}
+		],
+		"frome": "task",
+		"show_toast": false,
+		"announce_to_chat": false
+	}
+}
