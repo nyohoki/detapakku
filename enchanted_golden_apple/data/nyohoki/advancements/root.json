@@ -1,0 +1,24 @@
+{
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"display": {
+		"title": "Nyohoki's Datapacks",
+		"icon": {
+			"item": "minecraft:cherry_sapling"
+		},
+		"background": "minecraft:textures/block/cherry_log.png",
+		"description": ["",
+			{
+				"text": "Various datapacks created by Nyohoki\n",
+				"color": "dark_purple"
+			}
+		],
+		"frome": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false
+	}
+}
+

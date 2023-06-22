@@ -4,7 +4,7 @@
 			"trigger": "minecraft:tick"
 		}
 	},
-	"parent": "minecraft:adventure/root",
+	"parent": "nyohoki:root",
 	"display": {
 		"title": "Crafting Cobbled Deepslate",
 		"icon": {
